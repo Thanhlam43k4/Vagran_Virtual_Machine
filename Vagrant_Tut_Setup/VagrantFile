@@ -1,0 +1,28 @@
+Vagrant.configure("2") do |config|
+    config.vm.define "jenkins01" do |jenkins01|
+        jenkins01.vm.box ="generic/ubuntu2004"
+        jenkins01.vm.box_version = "3.6.8"
+        jenkins01.vm.hostname = "jenkins01"
+        jenkins01.vm.network "private_network",ip: "192.16.16.16"
+        jenkins01.vm.provider "virtualbox" do |vb|
+            vb.memory = "600"
+        end
+    end
+    config.vm.define "db01" do |db01|
+        db01.vm.box = "generic/ubuntu2004"
+        config.vm.box_version = "3.6.8"
+        db01.vm.hostname = "db01"
+        db01.vm.network "private_network", ip: "192.16.16.17"
+        db01.vm.provider "virtualbox" do |vb|
+         vb.memory = "600"
+       end
+    end
+end
+
+
+
+
+
+
+
+  
