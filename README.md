@@ -16,3 +16,17 @@ In the CLI(Command Line Interface):
 
                   https://github.com/Thanhlam43k4/Vagran_Virtual_Machine.git
               
+4.Change directory to "Vagrant_Tut_Setup"
+
+                  CMD:  cd \Vagrant_Tut_Setup
+
+5.Run command:
+
+                  vagrant up 
+-To scale the 02 virtual Box Jenkins01 and Db01 Machine
+->>> Open Your Virtual Box you can see the machine
+
+----------See you in the next post-----------
+Finished
+Good Luck to you!!!!!!
+        
