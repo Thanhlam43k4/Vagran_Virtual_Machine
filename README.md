@@ -9,7 +9,10 @@ Link: https://developer.hashicorp.com/vagrant/downloads
 2.Install Plugin Vagrant-hostmanager
 
 In the CLI(Command Line Interface):
-                vagrant plugin install vagrant-hostmanager
+
+                        vagrant plugin install vagrant-hostmanager
 
 3.Clone this repository:
-  
+
+                  https://github.com/Thanhlam43k4/Vagran_Virtual_Machine.git
+              
