@@ -1,6 +1,6 @@
 # Vagrant_Virtual_Machine
 Tutorial about how to set up vagrant for Virtual Box 
-<img align = "right" alt = "coding" width = "400" src  = "https://lh3.googleusercontent.com/blogger_img_proxy/ALY8t1uCWaZPje-abNFGbvvU04S6RugmGcpszsA9kqCMwmHsnggUt_vzwnapwpNbaeeByjwbBAUOfkwFLo7SICXIb5UaW3GgHmXYZDJXddPqEVelaUtL5Xci99hQw2BNPhJ7A4lpGQ3YQLXEIQ=s0-d">
+<img align = "right" alt = "coding" width = "200" src  = "https://lh3.googleusercontent.com/blogger_img_proxy/ALY8t1uCWaZPje-abNFGbvvU04S6RugmGcpszsA9kqCMwmHsnggUt_vzwnapwpNbaeeByjwbBAUOfkwFLo7SICXIb5UaW3GgHmXYZDJXddPqEVelaUtL5Xci99hQw2BNPhJ7A4lpGQ3YQLXEIQ=s0-d">
 Vagrant is the command line utility for managing the lifecycle of virtual machines. Isolate dependencies and their configuration within a single disposable and consistent environment.
 
 1.Install Vagrant
